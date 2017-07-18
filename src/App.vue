@@ -1,3 +1,5 @@
+
+<!--入口页面-->
 <template>
   <div id="app">
     <img src="./assets/logo.png">
